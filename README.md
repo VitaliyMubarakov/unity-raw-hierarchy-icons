@@ -20,13 +20,12 @@ The icon itself is stored the standard way, in the object's m_Icon. Folder state
 Package Manager → **Install package from git URL**:
 
 ```
-https://github.com/i3sn/raw-hierarchy-icons.git
+https://github.com/VitaliyMubarakov/unity-raw-hierarchy-icons.git
 ```
 
 Pin a tag unless you want to follow the branch:
-
 ```
-https://github.com/i3sn/raw-hierarchy-icons.git#v0.1.0
+https://github.com/VitaliyMubarakov/unity-raw-hierarchy-icons.git#v0.1.0
 ```
 
 ## Your own icon set
