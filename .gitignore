@@ -1,0 +1,21 @@
+# A UPM package holds only sources and their .meta files.
+# Unity writes Library/, Temp/ and Logs/ into the *project* root, never into a package,
+# so nothing from a project .gitignore belongs here.
+#
+# Never ignore *.meta: the package would lose stable GUIDs and break on update.
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Compiler output
+[Bb]in/
+[Oo]bj/
+
+# OS
+.DS_Store
+Thumbs.db
